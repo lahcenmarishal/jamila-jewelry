@@ -1,0 +1,13 @@
+# JAMILA JEWELRY
+- [x] Accueil vitrine (collections, sélection 4–8, univers, avis, réassurance)
+- [x] Boutique complète avec filtres, tri, chargement progressif
+- [x] Pages collections + fiche produit par URL
+- [x] À propos, Contact, Livraison, Retours, CGV, Confidentialité
+- [x] Admin : sélection accueil, collections, avis (masquage), contenus
+- [ ] Visuels premium des quatre catégories
+- [ ] Carrousel de la sélection accueil
+- [ ] Galerie admin, photo principale et photo au survol
+- [ ] Logo du pied de page réduit
+- [ ] Images accessibles sur Vercel
+- [ ] Aperçu du lien partagé : titre et logo JAMILA JEWELRY
+- [ ] Remplacer les quatre visuels de catégories par des créations originales générées
