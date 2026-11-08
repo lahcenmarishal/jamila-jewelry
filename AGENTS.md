@@ -26,3 +26,4 @@
 - The featured homepage selection uses Embla with touch gestures and accessible controls; this preserves admin ordering while avoiding custom carousel physics.
 - Server/CDN caching: public reads cached 60s in memory and HTML at the CDN (s-maxage=60, SWR); admin edits appear within ~1 min.
 - Store category editorials and the logo-based social preview under public images; this keeps database image paths admin-managed and sharing assets accessible on every deployment without Lovable-only CDN URLs.
+- Keep reviewed bulk-import manifests under `src/data/imports` with deterministic product IDs and transformed photos in `public/bijoux`; this permits import validation and portable image hosting without reseeding on page load.

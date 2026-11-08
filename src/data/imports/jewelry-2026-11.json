@@ -1,0 +1,402 @@
+[
+  {
+    "id": "jj-nov26-ens-meandre",
+    "sku": "JJ-NOV26-001",
+    "name": "Ensemble Méandre Doré",
+    "category": "Ensembles",
+    "price": 189,
+    "description": "Collier à pendentif rectangulaire et boucles assorties aux motifs géométriques.",
+    "detail": "Une parure coordonnée qui associe un pendentif vertical à une paire de boucles carrées. Les motifs graphiques et la teinte dorée composent une silhouette structurée.",
+    "material": "Composition non précisée",
+    "cut": "Motifs géométriques",
+    "images": [
+      "/bijoux/nouveautes-2026-11/ens-meandre.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 121,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-col-coeur-miroir",
+    "sku": "JJ-NOV26-002",
+    "name": "Collier Cœur Miroir",
+    "category": "Colliers",
+    "price": 119,
+    "description": "Chaîne fine argentée et pendentif en forme de cœur bombé.",
+    "detail": "Un pendentif cœur aux lignes arrondies se pose sur une chaîne fine. Sa teinte argentée et son aspect brillant apportent une touche délicate à une tenue simple ou habillée.",
+    "material": "Composition non précisée",
+    "cut": "Pendentif cœur",
+    "images": [
+      "/bijoux/nouveautes-2026-11/col-coeur-miroir.webp"
+    ],
+    "color": "Argenté",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 122,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bag-ruban",
+    "sku": "JJ-NOV26-003",
+    "name": "Bague Ruban Doré",
+    "category": "Bagues",
+    "price": 99,
+    "description": "Bague dorée aux lignes croisées et détails ajourés.",
+    "detail": "Cette bague présente un jeu de rubans croisés, alternant surfaces lisses et détails ajourés. Une pièce graphique qui se porte seule pour mettre en valeur son volume.",
+    "material": "Composition non précisée",
+    "cut": "Rubans croisés",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bag-ruban.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 123,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bra-etoiles-noires",
+    "sku": "JJ-NOV26-004",
+    "name": "Bracelet de Main Étoiles Noires",
+    "category": "Bracelets",
+    "price": 129,
+    "description": "Chaîne dorée reliant une bague et un bracelet, ornée de deux étoiles noires.",
+    "detail": "Un bijou de main composé d’une fine chaîne entre le poignet et le doigt. Deux motifs étoilés noirs ponctuent la ligne dorée pour une allure contrastée.",
+    "material": "Composition non précisée",
+    "cut": "Chaîne de main étoilée",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bra-etoiles-noires.webp"
+    ],
+    "color": "Doré et noir",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 124,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bra-fleurs-lumiere",
+    "sku": "JJ-NOV26-005",
+    "name": "Bracelet de Main Fleurs de Lumière",
+    "category": "Bracelets",
+    "price": 129,
+    "description": "Bijou de main doré avec deux motifs floraux clairs.",
+    "detail": "Une chaîne fine relie le bracelet à l’anneau porté au doigt. Deux petites fleurs aux centres clairs dessinent une ligne délicate sur la main.",
+    "material": "Composition non précisée",
+    "cut": "Chaîne de main florale",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bra-fleurs-lumiere.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 125,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bra-etoiles-lumiere",
+    "sku": "JJ-NOV26-006",
+    "name": "Bracelet de Main Étoiles de Lumière",
+    "category": "Bracelets",
+    "price": 129,
+    "description": "Chaîne de main dorée ponctuée de deux étoiles claires.",
+    "detail": "Ce bijou relie le poignet au doigt par une chaîne fine ornée de deux étoiles. Ses détails clairs et sa teinte dorée créent un accent lumineux.",
+    "material": "Composition non précisée",
+    "cut": "Chaîne de main étoilée",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bra-etoiles-lumiere.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 126,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-ens-serpentine",
+    "sku": "JJ-NOV26-007",
+    "name": "Ensemble Serpentine",
+    "category": "Ensembles",
+    "price": 179,
+    "description": "Collier et boucles assorties en forme de serpent doré.",
+    "detail": "Le pendentif sinueux et les deux boucles reprennent le même motif de serpent stylisé. Une parure dorée aux courbes souples, à porter ensemble ou séparément.",
+    "material": "Composition non précisée",
+    "cut": "Motifs serpent",
+    "images": [
+      "/bijoux/nouveautes-2026-11/ens-serpentine.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 127,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-ens-soleil",
+    "sku": "JJ-NOV26-008",
+    "name": "Ensemble Soleil Doré",
+    "category": "Ensembles",
+    "price": 179,
+    "description": "Pendentif soleil et boucles assorties à rayons ajourés.",
+    "detail": "Une parure composée d’un collier à grand soleil et de deux boucles reprenant ses rayons. Les ouvertures centrales soulignent le dessin graphique des trois pièces.",
+    "material": "Composition non précisée",
+    "cut": "Soleils ajourés",
+    "images": [
+      "/bijoux/nouveautes-2026-11/ens-soleil.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 128,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-col-papillon-perle",
+    "sku": "JJ-NOV26-009",
+    "name": "Collier Papillon Perlé",
+    "category": "Colliers",
+    "price": 149,
+    "description": "Collier de perles blanches avec motif papillon doré au centre.",
+    "detail": "Une succession de perles blanches encadre un délicat motif papillon doré. Le contraste des formes rondes et du papillon fait de ce collier une pièce douce et expressive.",
+    "material": "Composition non précisée",
+    "cut": "Perles et papillon",
+    "images": [
+      "/bijoux/nouveautes-2026-11/col-papillon-perle.webp"
+    ],
+    "color": "Blanc et doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 129,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bou-vert-facette",
+    "sku": "JJ-NOV26-010",
+    "name": "Boucles Vert Facetté",
+    "category": "Boucles d’oreilles",
+    "price": 139,
+    "description": "Petits anneaux dorés et ornements rectangulaires verts facettés.",
+    "detail": "Une paire de boucles pendantes associant des anneaux dorés à des ornements verts rectangulaires. Les facettes captent la lumière et soulignent la profondeur de la couleur.",
+    "material": "Composition non précisée",
+    "cut": "Ornements rectangulaires facettés",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bou-vert-facette.webp"
+    ],
+    "color": "Doré et vert",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 130,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bag-jardin-vert",
+    "sku": "JJ-NOV26-011",
+    "name": "Bague Jardin Vert",
+    "category": "Bagues",
+    "price": 119,
+    "description": "Bague dorée à ornement ovale vert et entourage décoratif.",
+    "detail": "Un ornement vert ovale occupe le centre de cette bague. L’entourage doré, ponctué de petits détails clairs, et les lignes courbes de l’anneau dessinent une pièce ornementale.",
+    "material": "Composition non précisée",
+    "cut": "Centre ovale et volutes",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bag-jardin-vert.webp"
+    ],
+    "color": "Doré et vert",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 131,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-ens-ovale",
+    "sku": "JJ-NOV26-012",
+    "name": "Ensemble Ovale Doré",
+    "category": "Ensembles",
+    "price": 169,
+    "description": "Collier à pendentif ovale ajouré et boucles assorties.",
+    "detail": "Trois ovales dorés composent cette parure : un pendentif allongé et une paire de boucles coordonnées. Leur centre ouvert donne au dessin une allure épurée.",
+    "material": "Composition non précisée",
+    "cut": "Ovales ajourés",
+    "images": [
+      "/bijoux/nouveautes-2026-11/ens-ovale.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 132,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-bra-calligraphie",
+    "sku": "JJ-NOV26-013",
+    "name": "Bracelet Calligraphie Dorée",
+    "category": "Bracelets",
+    "price": 99,
+    "description": "Bracelet à chaîne fine et motif central calligraphique doré.",
+    "detail": "Une fine chaîne met en valeur un motif central inspiré de la calligraphie. Sa silhouette dorée se porte seule ou accompagnée d’autres bracelets fins.",
+    "material": "Composition non précisée",
+    "cut": "Motif calligraphique",
+    "images": [
+      "/bijoux/nouveautes-2026-11/bra-calligraphie.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 133,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-ens-marguerite",
+    "sku": "JJ-NOV26-014",
+    "name": "Ensemble Marguerite Dorée",
+    "category": "Ensembles",
+    "price": 179,
+    "description": "Collier et boucles assorties en forme de marguerite.",
+    "detail": "Un pendentif floral à pétales rayonnants s’accorde avec deux boucles reprenant le même dessin. La teinte dorée souligne les détails de cette parure inspirée de la marguerite.",
+    "material": "Composition non précisée",
+    "cut": "Fleurs à pétales rayonnants",
+    "images": [
+      "/bijoux/nouveautes-2026-11/ens-marguerite.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 134,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-col-harmonie",
+    "sku": "JJ-NOV26-015",
+    "name": "Collier Multirang Harmonie",
+    "category": "Colliers",
+    "price": 199,
+    "description": "Composition de colliers superposés mêlant perles, chaînes et pendentif rond.",
+    "detail": "Une composition multirang réunit une ligne de perles claires, des chaînes dorées et un pendentif rond décoratif. Les différentes longueurs créent une superposition à porter comme sur la photo.",
+    "material": "Composition non précisée",
+    "cut": "Superposition multirang",
+    "images": [
+      "/bijoux/nouveautes-2026-11/col-harmonie.webp"
+    ],
+    "color": "Doré et blanc",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 135,
+    "featured": false,
+    "featured_order": 0
+  },
+  {
+    "id": "jj-nov26-ens-calligraphie",
+    "sku": "JJ-NOV26-016",
+    "name": "Ensemble Calligraphie Dorée",
+    "category": "Ensembles",
+    "price": 169,
+    "description": "Collier et bracelet à chaînes fines avec motifs calligraphiques assortis.",
+    "detail": "Un duo composé d’un collier et d’un bracelet, chacun orné d’un motif calligraphique doré. Les chaînes fines laissent le dessin central occuper toute sa place.",
+    "material": "Composition non précisée",
+    "cut": "Collier et bracelet coordonnés",
+    "images": [
+      "/bijoux/nouveautes-2026-11/ens-calligraphie.webp"
+    ],
+    "color": "Doré",
+    "color_token": "noire",
+    "sizes": [
+      "Unique"
+    ],
+    "available": true,
+    "active": true,
+    "label": "Nouveau",
+    "sort_order": 136,
+    "featured": false,
+    "featured_order": 0
+  }
+]
