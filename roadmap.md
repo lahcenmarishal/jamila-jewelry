@@ -1,4 +1,5 @@
 # JAMILA JEWELRY
+- [ ] Accélérer les photos des produits sur Vercel avec des tailles adaptées, puis vérifier les fiches et la boutique.
 - [x] Importer les bijoux de Dowloads.rar : 16 produits, photos, catégories, textes, prix 99–199 DH, étiquette Nouveau ; 16 fiches et panier vérifiés.
 - [x] Accueil vitrine (collections, sélection 4–8, univers, avis, réassurance)
 - [x] Boutique complète avec filtres, tri, chargement progressif

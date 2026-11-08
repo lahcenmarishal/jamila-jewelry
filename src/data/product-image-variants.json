@@ -1,0 +1,5050 @@
+{
+  "/bijoux/bagues/01.jpg": [
+    {
+      "src": "/bijoux/responsive/3ed8b2924502ce8a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3ed8b2924502ce8a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3ed8b2924502ce8a-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/02.jpg": [
+    {
+      "src": "/bijoux/responsive/60532d65f48daf16-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/60532d65f48daf16-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/60532d65f48daf16-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/60532d65f48daf16-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bagues/03.jpg": [
+    {
+      "src": "/bijoux/responsive/e1afcf2e267c998e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e1afcf2e267c998e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e1afcf2e267c998e-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/04.jpg": [
+    {
+      "src": "/bijoux/responsive/52461ce9a0af5419-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/52461ce9a0af5419-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/52461ce9a0af5419-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/05.jpg": [
+    {
+      "src": "/bijoux/responsive/188be0570c8351bc-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/188be0570c8351bc-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/188be0570c8351bc-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/06.jpg": [
+    {
+      "src": "/bijoux/responsive/50aa4a328e6322cf-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/50aa4a328e6322cf-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/50aa4a328e6322cf-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/07.jpg": [
+    {
+      "src": "/bijoux/responsive/20fe43d6f1d890e3-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/20fe43d6f1d890e3-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/20fe43d6f1d890e3-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/20fe43d6f1d890e3-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bagues/08.jpg": [
+    {
+      "src": "/bijoux/responsive/01e0b087efa7bc97-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/01e0b087efa7bc97-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/01e0b087efa7bc97-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/01e0b087efa7bc97-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bagues/09.jpg": [
+    {
+      "src": "/bijoux/responsive/e02a1e3262b8e15b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e02a1e3262b8e15b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e02a1e3262b8e15b-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/10.jpg": [
+    {
+      "src": "/bijoux/responsive/1bac818c3d81e136-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1bac818c3d81e136-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1bac818c3d81e136-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/11.jpg": [
+    {
+      "src": "/bijoux/responsive/130d260a51554797-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/130d260a51554797-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/130d260a51554797-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/12.jpg": [
+    {
+      "src": "/bijoux/responsive/f286d189ee70f29b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f286d189ee70f29b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/f286d189ee70f29b-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/13.jpg": [
+    {
+      "src": "/bijoux/responsive/9e6b725ca814d970-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9e6b725ca814d970-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9e6b725ca814d970-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bagues/14.jpg": [
+    {
+      "src": "/bijoux/responsive/df478b615d117189-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/df478b615d117189-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/df478b615d117189-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/df478b615d117189-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bagues/15.jpg": [
+    {
+      "src": "/bijoux/responsive/95af89cb21783518-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/95af89cb21783518-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/95af89cb21783518-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/95af89cb21783518-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/01.jpg": [
+    {
+      "src": "/bijoux/responsive/d7269f12ad55d3a2-160.webp",
+      "width": 160,
+      "height": 161
+    },
+    {
+      "src": "/bijoux/responsive/d7269f12ad55d3a2-480.webp",
+      "width": 480,
+      "height": 483
+    },
+    {
+      "src": "/bijoux/responsive/d7269f12ad55d3a2-703.webp",
+      "width": 703,
+      "height": 708
+    }
+  ],
+  "/bijoux/boucles/02.jpg": [
+    {
+      "src": "/bijoux/responsive/9c521074a090c9e6-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9c521074a090c9e6-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9c521074a090c9e6-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/03.jpg": [
+    {
+      "src": "/bijoux/responsive/6f4f4b6a54061194-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6f4f4b6a54061194-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6f4f4b6a54061194-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/04.jpg": [
+    {
+      "src": "/bijoux/responsive/13fdfc8c276a7da4-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/13fdfc8c276a7da4-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/13fdfc8c276a7da4-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/05.jpg": [
+    {
+      "src": "/bijoux/responsive/92e8e63eac2129ec-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/92e8e63eac2129ec-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/92e8e63eac2129ec-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/06.jpg": [
+    {
+      "src": "/bijoux/responsive/28dd3cfebc77b913-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/28dd3cfebc77b913-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/28dd3cfebc77b913-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/07.jpg": [
+    {
+      "src": "/bijoux/responsive/3fe64b7fcabffd93-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3fe64b7fcabffd93-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3fe64b7fcabffd93-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/08.jpg": [
+    {
+      "src": "/bijoux/responsive/a1a86cdcb74315aa-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a1a86cdcb74315aa-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a1a86cdcb74315aa-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/09.jpg": [
+    {
+      "src": "/bijoux/responsive/1f2367ea23744f2f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1f2367ea23744f2f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1f2367ea23744f2f-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/1f2367ea23744f2f-960.webp",
+      "width": 960,
+      "height": 960
+    }
+  ],
+  "/bijoux/boucles/10.jpg": [
+    {
+      "src": "/bijoux/responsive/e523e2a47a0cec2f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e523e2a47a0cec2f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e523e2a47a0cec2f-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/e523e2a47a0cec2f-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/11.jpg": [
+    {
+      "src": "/bijoux/responsive/26c971a45c518a01-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/26c971a45c518a01-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/26c971a45c518a01-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/26c971a45c518a01-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/12.jpg": [
+    {
+      "src": "/bijoux/responsive/1fa9a1a387a05696-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1fa9a1a387a05696-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1fa9a1a387a05696-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/13.jpg": [
+    {
+      "src": "/bijoux/responsive/4d766b5f025917ff-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/4d766b5f025917ff-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/4d766b5f025917ff-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/14.jpg": [
+    {
+      "src": "/bijoux/responsive/676e0003f8185a1e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/676e0003f8185a1e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/676e0003f8185a1e-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/15.jpg": [
+    {
+      "src": "/bijoux/responsive/31aaf5771c27941f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/31aaf5771c27941f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/31aaf5771c27941f-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/16.jpg": [
+    {
+      "src": "/bijoux/responsive/7f6f3aa9fa1e450e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7f6f3aa9fa1e450e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/7f6f3aa9fa1e450e-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/17.jpg": [
+    {
+      "src": "/bijoux/responsive/ad984252d439205f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ad984252d439205f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/ad984252d439205f-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/18.jpg": [
+    {
+      "src": "/bijoux/responsive/99f910fc51f25996-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/99f910fc51f25996-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/99f910fc51f25996-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/99f910fc51f25996-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/19.jpg": [
+    {
+      "src": "/bijoux/responsive/aa4cdb1c706c5d75-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/aa4cdb1c706c5d75-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/aa4cdb1c706c5d75-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/20.jpg": [
+    {
+      "src": "/bijoux/responsive/0bcfbd96ce0e0eed-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0bcfbd96ce0e0eed-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0bcfbd96ce0e0eed-760.webp",
+      "width": 760,
+      "height": 760
+    }
+  ],
+  "/bijoux/boucles/21.jpg": [
+    {
+      "src": "/bijoux/responsive/1a30bf7d79b41849-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1a30bf7d79b41849-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1a30bf7d79b41849-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/22.jpg": [
+    {
+      "src": "/bijoux/responsive/f3b4851e37f5b9f7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f3b4851e37f5b9f7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/f3b4851e37f5b9f7-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/23.jpg": [
+    {
+      "src": "/bijoux/responsive/302f460b46d2a2a2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/302f460b46d2a2a2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/302f460b46d2a2a2-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/boucles/24.jpg": [
+    {
+      "src": "/bijoux/responsive/dc63eb90922a5cd0-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/dc63eb90922a5cd0-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/dc63eb90922a5cd0-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/dc63eb90922a5cd0-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/25.jpg": [
+    {
+      "src": "/bijoux/responsive/6a82f41cba80a4b0-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6a82f41cba80a4b0-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6a82f41cba80a4b0-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/boucles/26.jpg": [
+    {
+      "src": "/bijoux/responsive/9a66ad37fdf22840-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9a66ad37fdf22840-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9a66ad37fdf22840-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/9a66ad37fdf22840-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/27.jpg": [
+    {
+      "src": "/bijoux/responsive/88460355014b9eb7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/88460355014b9eb7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/88460355014b9eb7-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/88460355014b9eb7-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/boucles/28.jpg": [
+    {
+      "src": "/bijoux/responsive/41699f6018e7fac2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/41699f6018e7fac2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/41699f6018e7fac2-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bracelets/01.jpg": [
+    {
+      "src": "/bijoux/responsive/e9c906acaf8b3b4b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e9c906acaf8b3b4b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e9c906acaf8b3b4b-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/e9c906acaf8b3b4b-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bracelets/02.jpg": [
+    {
+      "src": "/bijoux/responsive/bc291f9abd6480a9-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/bc291f9abd6480a9-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/bc291f9abd6480a9-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/bc291f9abd6480a9-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bracelets/03.jpg": [
+    {
+      "src": "/bijoux/responsive/5b1c31a81c1473f2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5b1c31a81c1473f2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/5b1c31a81c1473f2-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bracelets/04.jpg": [
+    {
+      "src": "/bijoux/responsive/b8ced5f18a8db88e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/b8ced5f18a8db88e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/b8ced5f18a8db88e-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/b8ced5f18a8db88e-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bracelets/05.jpg": [
+    {
+      "src": "/bijoux/responsive/236fee6234feb9fb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/236fee6234feb9fb-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/236fee6234feb9fb-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/236fee6234feb9fb-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/bracelets/06.jpg": [
+    {
+      "src": "/bijoux/responsive/2ac49e14f9da6e3c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/2ac49e14f9da6e3c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/2ac49e14f9da6e3c-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bracelets/07.jpg": [
+    {
+      "src": "/bijoux/responsive/c7346a0e46026b0a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c7346a0e46026b0a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c7346a0e46026b0a-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/bracelets/08.jpg": [
+    {
+      "src": "/bijoux/responsive/e700fdc1c25316ff-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e700fdc1c25316ff-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e700fdc1c25316ff-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/e700fdc1c25316ff-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/01.jpg": [
+    {
+      "src": "/bijoux/responsive/41847ad977e197e4-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/41847ad977e197e4-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/41847ad977e197e4-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/41847ad977e197e4-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/02.jpg": [
+    {
+      "src": "/bijoux/responsive/c39963d270999645-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c39963d270999645-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c39963d270999645-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/03.jpg": [
+    {
+      "src": "/bijoux/responsive/82d6b2b56ea4ca88-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/82d6b2b56ea4ca88-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/82d6b2b56ea4ca88-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/82d6b2b56ea4ca88-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/04.jpg": [
+    {
+      "src": "/bijoux/responsive/8ca8a4e2e5cb5dcd-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8ca8a4e2e5cb5dcd-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/8ca8a4e2e5cb5dcd-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/8ca8a4e2e5cb5dcd-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/05.jpg": [
+    {
+      "src": "/bijoux/responsive/171ad35452f304e7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/171ad35452f304e7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/171ad35452f304e7-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/06.jpg": [
+    {
+      "src": "/bijoux/responsive/ecd569299f02a60b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ecd569299f02a60b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/ecd569299f02a60b-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/ecd569299f02a60b-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/07.jpg": [
+    {
+      "src": "/bijoux/responsive/30607c98310ae7df-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/30607c98310ae7df-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/30607c98310ae7df-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/08.jpg": [
+    {
+      "src": "/bijoux/responsive/cda45cfb1abf00c1-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/cda45cfb1abf00c1-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/cda45cfb1abf00c1-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/cda45cfb1abf00c1-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/09.jpg": [
+    {
+      "src": "/bijoux/responsive/03b4b67cd9de7776-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/03b4b67cd9de7776-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/03b4b67cd9de7776-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/10.jpg": [
+    {
+      "src": "/bijoux/responsive/df05fd60ca9b02af-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/df05fd60ca9b02af-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/df05fd60ca9b02af-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/df05fd60ca9b02af-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/11.jpg": [
+    {
+      "src": "/bijoux/responsive/e9f09397266c28ed-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e9f09397266c28ed-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e9f09397266c28ed-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/12.jpg": [
+    {
+      "src": "/bijoux/responsive/47e0a08b50addded-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/47e0a08b50addded-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/47e0a08b50addded-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/13.jpg": [
+    {
+      "src": "/bijoux/responsive/2ff7fbff07e4acce-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/2ff7fbff07e4acce-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/2ff7fbff07e4acce-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/2ff7fbff07e4acce-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/14.jpg": [
+    {
+      "src": "/bijoux/responsive/bca551052db9db33-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/bca551052db9db33-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/bca551052db9db33-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/bca551052db9db33-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/15.jpg": [
+    {
+      "src": "/bijoux/responsive/846258575f7efe36-160.webp",
+      "width": 160,
+      "height": 159
+    },
+    {
+      "src": "/bijoux/responsive/846258575f7efe36-480.webp",
+      "width": 480,
+      "height": 477
+    },
+    {
+      "src": "/bijoux/responsive/846258575f7efe36-483.webp",
+      "width": 483,
+      "height": 480
+    }
+  ],
+  "/bijoux/collier/16.jpg": [
+    {
+      "src": "/bijoux/responsive/c673a0f800e7c288-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c673a0f800e7c288-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c673a0f800e7c288-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/c673a0f800e7c288-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/17.jpg": [
+    {
+      "src": "/bijoux/responsive/712816243b0702c9-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/712816243b0702c9-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/712816243b0702c9-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/712816243b0702c9-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/18.jpg": [
+    {
+      "src": "/bijoux/responsive/acc0023d8bf020f9-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/acc0023d8bf020f9-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/acc0023d8bf020f9-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/acc0023d8bf020f9-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/19.jpg": [
+    {
+      "src": "/bijoux/responsive/bc1ebc7cc4e95029-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/bc1ebc7cc4e95029-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/bc1ebc7cc4e95029-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/bc1ebc7cc4e95029-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/20.jpg": [
+    {
+      "src": "/bijoux/responsive/ad910138871376a2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ad910138871376a2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/ad910138871376a2-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/21.jpg": [
+    {
+      "src": "/bijoux/responsive/353471c582972ec6-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/353471c582972ec6-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/353471c582972ec6-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/353471c582972ec6-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/22.jpg": [
+    {
+      "src": "/bijoux/responsive/306d9321c798e1f5-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/306d9321c798e1f5-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/306d9321c798e1f5-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/23.jpg": [
+    {
+      "src": "/bijoux/responsive/7c733e6aa40d4d04-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7c733e6aa40d4d04-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/7c733e6aa40d4d04-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/collier/24.jpg": [
+    {
+      "src": "/bijoux/responsive/bd540ed7776003ec-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/bd540ed7776003ec-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/bd540ed7776003ec-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/bd540ed7776003ec-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/25.jpg": [
+    {
+      "src": "/bijoux/responsive/148b941918f9b30c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/148b941918f9b30c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/148b941918f9b30c-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/148b941918f9b30c-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/26.jpg": [
+    {
+      "src": "/bijoux/responsive/998dc3c2b6029d52-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/998dc3c2b6029d52-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/998dc3c2b6029d52-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/998dc3c2b6029d52-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/27.jpg": [
+    {
+      "src": "/bijoux/responsive/d3d40de85c41a14b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d3d40de85c41a14b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/d3d40de85c41a14b-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/d3d40de85c41a14b-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/28.jpg": [
+    {
+      "src": "/bijoux/responsive/9574ae58e7584808-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9574ae58e7584808-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9574ae58e7584808-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/9574ae58e7584808-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/collier/29.jpg": [
+    {
+      "src": "/bijoux/responsive/c5567c02b7e7b19c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c5567c02b7e7b19c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c5567c02b7e7b19c-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/c5567c02b7e7b19c-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/eclat-solitaire.jpg": [
+    {
+      "src": "/bijoux/responsive/dde3f72f35f4dd51-160.webp",
+      "width": 160,
+      "height": 200
+    },
+    {
+      "src": "/bijoux/responsive/dde3f72f35f4dd51-480.webp",
+      "width": 480,
+      "height": 600
+    },
+    {
+      "src": "/bijoux/responsive/dde3f72f35f4dd51-800.webp",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "src": "/bijoux/responsive/dde3f72f35f4dd51-1024.webp",
+      "width": 1024,
+      "height": 1280
+    }
+  ],
+  "/bijoux/gouttes-de-lumiere.jpg": [
+    {
+      "src": "/bijoux/responsive/65d114cac755e7c0-160.webp",
+      "width": 160,
+      "height": 200
+    },
+    {
+      "src": "/bijoux/responsive/65d114cac755e7c0-480.webp",
+      "width": 480,
+      "height": 600
+    },
+    {
+      "src": "/bijoux/responsive/65d114cac755e7c0-800.webp",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "src": "/bijoux/responsive/65d114cac755e7c0-1024.webp",
+      "width": 1024,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/024d3f20-27dcb8e9-b5a6-4572-ab35-540e68b4c069.jpeg": [
+    {
+      "src": "/bijoux/responsive/0e4f7093a28baa25-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0e4f7093a28baa25-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0e4f7093a28baa25-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/0e4f7093a28baa25-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/03a07247-209a5967-332c-4341-8766-2fed8b06bc97.jpeg": [
+    {
+      "src": "/bijoux/responsive/7d49a31b5f5abe03-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7d49a31b5f5abe03-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/7d49a31b5f5abe03-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/04848a0e-d9ea9d2e-f118-475e-a97a-81f197e04353.jpg": [
+    {
+      "src": "/bijoux/responsive/fec9580fd856b360-160.webp",
+      "width": 160,
+      "height": 214
+    },
+    {
+      "src": "/bijoux/responsive/fec9580fd856b360-480.webp",
+      "width": 480,
+      "height": 643
+    },
+    {
+      "src": "/bijoux/responsive/fec9580fd856b360-800.webp",
+      "width": 800,
+      "height": 1071
+    },
+    {
+      "src": "/bijoux/responsive/fec9580fd856b360-896.webp",
+      "width": 896,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/061e6038-3c390a0d-5ec4-4c64-9a2c-f18543241c57.jpeg": [
+    {
+      "src": "/bijoux/responsive/a596fc109fc8d3ab-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a596fc109fc8d3ab-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a596fc109fc8d3ab-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/a596fc109fc8d3ab-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/06776982-98aaeb7a-4231-4da5-9173-8e667cb3b368.jpeg": [
+    {
+      "src": "/bijoux/responsive/a5c77d57201907aa-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a5c77d57201907aa-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a5c77d57201907aa-794.webp",
+      "width": 794,
+      "height": 794
+    }
+  ],
+  "/bijoux/imported/08be3960-7aeee252-dafd-4ec9-bbc2-67bb37e1e25f.jpeg": [
+    {
+      "src": "/bijoux/responsive/b7b8b7c9d6441803-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/b7b8b7c9d6441803-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/b7b8b7c9d6441803-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/095371a9-00880f68-a223-4085-a20c-086e27ac7241.jpeg": [
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/0cb42950-f2a195b0-126b-454d-adac-99b1554caa45.jpeg": [
+    {
+      "src": "/bijoux/responsive/fe12f7334d0a3a9a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/fe12f7334d0a3a9a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/fe12f7334d0a3a9a-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/0d035435-fc22247c-d731-482e-beef-35b4e0d9dabc.jpeg": [
+    {
+      "src": "/bijoux/responsive/be84807fcaa26aa3-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/be84807fcaa26aa3-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/be84807fcaa26aa3-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/0e578dfe-4ceb18f0-6b7a-4c55-ad96-aa242679b03a.jpeg": [
+    {
+      "src": "/bijoux/responsive/fbe9c0cedc9b2709-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/fbe9c0cedc9b2709-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/fbe9c0cedc9b2709-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/0ed2ebd3-e83aa39e-86ba-4964-9424-a570ac86c876.jpeg": [
+    {
+      "src": "/bijoux/responsive/51943d28aee83cd7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/51943d28aee83cd7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/51943d28aee83cd7-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/51943d28aee83cd7-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/10bbab78-80bd8059-b8d8-4b45-af18-913fb09d5b24.webp": [
+    {
+      "src": "/bijoux/responsive/27a86f9c510f01d3-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/27a86f9c510f01d3-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/27a86f9c510f01d3-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/1274cb2a-1ef195c0-0431-4529-98c3-6dbd2a251e3e.webp": [
+    {
+      "src": "/bijoux/responsive/4fcb6682c282bb58-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/4fcb6682c282bb58-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/4fcb6682c282bb58-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/128bbaf3-3cb5acc6-6e3b-4592-b460-5f744829cd00.jpeg": [
+    {
+      "src": "/bijoux/responsive/b2a75bb29b3b9b18-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/b2a75bb29b3b9b18-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/b2a75bb29b3b9b18-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/b2a75bb29b3b9b18-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/1378403d-6657e030-e726-46b7-9c1c-614c04def507.jpg": [
+    {
+      "src": "/bijoux/responsive/a8561b5d470f8754-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a8561b5d470f8754-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/154a4d90-847c1d23-aa5d-4c93-8720-8d3719e4a340.jpeg": [
+    {
+      "src": "/bijoux/responsive/8ad34c790dc52b7d-160.webp",
+      "width": 160,
+      "height": 214
+    },
+    {
+      "src": "/bijoux/responsive/8ad34c790dc52b7d-480.webp",
+      "width": 480,
+      "height": 641
+    },
+    {
+      "src": "/bijoux/responsive/8ad34c790dc52b7d-800.webp",
+      "width": 800,
+      "height": 1068
+    },
+    {
+      "src": "/bijoux/responsive/8ad34c790dc52b7d-1000.webp",
+      "width": 1000,
+      "height": 1335
+    }
+  ],
+  "/bijoux/imported/163daa98-82c79ea1-aaf1-4298-856f-e16ed6e6fc19.jpeg": [
+    {
+      "src": "/bijoux/responsive/6a40ae082db28202-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6a40ae082db28202-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6a40ae082db28202-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/166b7b82-717b337b-d5a1-4346-b801-ce4776d4271b.jpeg": [
+    {
+      "src": "/bijoux/responsive/e37cf0db2bc60345-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e37cf0db2bc60345-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e37cf0db2bc60345-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/e37cf0db2bc60345-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/17d1cb83-0857912a-ee61-4702-b417-01a75a81b777.jpeg": [
+    {
+      "src": "/bijoux/responsive/2ada575a12cdaa60-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/2ada575a12cdaa60-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/1944b34c-040a2986-5ee6-469a-a659-6872a2c144d6.jpeg": [
+    {
+      "src": "/bijoux/responsive/5766cee3e8bf718f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5766cee3e8bf718f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/5766cee3e8bf718f-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/197a2f18-672a882f-02ec-4d4b-add0-c784070b673d.jpg": [
+    {
+      "src": "/bijoux/responsive/c02694fa8312875c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c02694fa8312875c-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/1a4f93f8-b8961b19-57d6-4bde-b055-ebd53115c586.jpeg": [
+    {
+      "src": "/bijoux/responsive/c53d630fd99096c3-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c53d630fd99096c3-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c53d630fd99096c3-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/1c6095b3-6a905c8b-043d-40c8-96b1-c3e4dbebf456.jpg": [
+    {
+      "src": "/bijoux/responsive/c91ee9e3aa93943a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c91ee9e3aa93943a-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/1cedfa47-03903b20-0a30-4dfb-b7a2-f746e1476806.jpeg": [
+    {
+      "src": "/bijoux/responsive/0815a5dd892e72b1-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0815a5dd892e72b1-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0815a5dd892e72b1-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/0815a5dd892e72b1-1024.webp",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "/bijoux/imported/1d2fa477-38c794cd-4f0e-4334-9bc2-c57bfc5bbe8e.jpg": [
+    {
+      "src": "/bijoux/responsive/fac89b7046caf3d0-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/fac89b7046caf3d0-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/1f8a10bb-083c9cc3-f7d6-46f7-92d9-9646d4db4c53.jpg": [
+    {
+      "src": "/bijoux/responsive/ee0f0f33e8637048-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ee0f0f33e8637048-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/1f8b4957-ef99c59b-5bc0-4626-9e5c-e29effe46ba3.jpeg": [
+    {
+      "src": "/bijoux/responsive/58083f37f0435c8a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/58083f37f0435c8a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/58083f37f0435c8a-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/20fbc106-86684e89-29dc-42ab-b444-ddcfb7148be4.jpeg": [
+    {
+      "src": "/bijoux/responsive/e18d8573d02a6be2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e18d8573d02a6be2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e18d8573d02a6be2-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/22a0d72d-798e0786-6b70-4ff6-afce-89c47d708451.jpeg": [
+    {
+      "src": "/bijoux/responsive/b3c1c58a477b0558-160.webp",
+      "width": 160,
+      "height": 157
+    },
+    {
+      "src": "/bijoux/responsive/b3c1c58a477b0558-480.webp",
+      "width": 480,
+      "height": 470
+    },
+    {
+      "src": "/bijoux/responsive/b3c1c58a477b0558-800.webp",
+      "width": 800,
+      "height": 784
+    }
+  ],
+  "/bijoux/imported/23f9c697-76e1feda-13fc-4cb6-ab6e-045958627a16.jpeg": [
+    {
+      "src": "/bijoux/responsive/a51bfed2cbc4b621-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a51bfed2cbc4b621-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a51bfed2cbc4b621-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/a51bfed2cbc4b621-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/25b57bf3-b043cdcb-5a04-489f-9b96-327834e20cd9.jpeg": [
+    {
+      "src": "/bijoux/responsive/3fc5deb69e9f3769-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3fc5deb69e9f3769-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3fc5deb69e9f3769-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/3fc5deb69e9f3769-1080.webp",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "/bijoux/imported/26d83911-48eb0605-7acf-402f-98a2-bb108b81d8ba.jpeg": [
+    {
+      "src": "/bijoux/responsive/88eaaeb0f92a250b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/88eaaeb0f92a250b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/88eaaeb0f92a250b-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/271fa4c9-37e903e9-542a-4814-bc09-bcab8474191a.jpeg": [
+    {
+      "src": "/bijoux/responsive/ff4b6d1e3fc4beec-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ff4b6d1e3fc4beec-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/ff4b6d1e3fc4beec-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/2a116e5a-9d692456-33c9-4dd5-bec2-c906f6d850dc.jpeg": [
+    {
+      "src": "/bijoux/responsive/8a8c4716ac3fe99a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8a8c4716ac3fe99a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/8a8c4716ac3fe99a-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/2b472bb0-33feef10-fbb9-4a0b-b730-ce07e246168e.jpeg": [
+    {
+      "src": "/bijoux/responsive/3c4d5facbbb2bf33-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3c4d5facbbb2bf33-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3c4d5facbbb2bf33-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/2cb7616c-5bfa657c-822c-4545-bf0e-36b0f5ff4c70.jpeg": [
+    {
+      "src": "/bijoux/responsive/99fa21b19b75b1cc-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/99fa21b19b75b1cc-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/99fa21b19b75b1cc-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/2d0a80c7-7cac465c-1d00-425f-b320-2845d451016d.jpeg": [
+    {
+      "src": "/bijoux/responsive/3b66094cde299acd-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3b66094cde299acd-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3b66094cde299acd-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/3b66094cde299acd-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/2d7369bc-415c6e89-3b00-4aeb-8371-0e07fcfcfa22.jpeg": [
+    {
+      "src": "/bijoux/responsive/eeec0beee0770612-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/eeec0beee0770612-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/eeec0beee0770612-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/2e5ed626-d4fc1dff-c33a-4531-aeda-8ab14daf3256.jpeg": [
+    {
+      "src": "/bijoux/responsive/f24b40f204afcf05-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f24b40f204afcf05-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/f24b40f204afcf05-799.webp",
+      "width": 799,
+      "height": 799
+    }
+  ],
+  "/bijoux/imported/2e6c7392-2214a823-d7be-41fd-b64e-f1a6e1a18782.jpeg": [
+    {
+      "src": "/bijoux/responsive/b6e3f89cae8a972e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/b6e3f89cae8a972e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/b6e3f89cae8a972e-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/2ed13285-a66bb86b-d460-446b-acf7-63de029c564c.jpg": [
+    {
+      "src": "/bijoux/responsive/a6cdbee5b1000a4d-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a6cdbee5b1000a4d-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/2f7d636d-9d7891fb-56e6-4458-8d1a-95ad781a3e57.jpeg": [
+    {
+      "src": "/bijoux/responsive/2425d711bd3803c1-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/2425d711bd3803c1-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/2425d711bd3803c1-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/2425d711bd3803c1-1080.webp",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "/bijoux/imported/308d9820-b4d62748-648d-448b-9537-1ad557101be6.jpeg": [
+    {
+      "src": "/bijoux/responsive/3934bbdb5f01d65e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3934bbdb5f01d65e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3934bbdb5f01d65e-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/30a8bb6a-67ba8361-9e32-42ec-bafb-1f412e68b816.jpeg": [
+    {
+      "src": "/bijoux/responsive/8c64a1801051e4e8-160.webp",
+      "width": 160,
+      "height": 159
+    },
+    {
+      "src": "/bijoux/responsive/8c64a1801051e4e8-480.webp",
+      "width": 480,
+      "height": 476
+    },
+    {
+      "src": "/bijoux/responsive/8c64a1801051e4e8-800.webp",
+      "width": 800,
+      "height": 794
+    },
+    {
+      "src": "/bijoux/responsive/8c64a1801051e4e8-1000.webp",
+      "width": 1000,
+      "height": 992
+    }
+  ],
+  "/bijoux/imported/357873c5-b60ad0c0-65aa-4d94-ab0e-e96bc3f34599.webp": [
+    {
+      "src": "/bijoux/responsive/e61e1215f9aec867-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/e61e1215f9aec867-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/e61e1215f9aec867-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/361aad85-487df2ed-c0fc-44fe-8ffe-fa2f74471504.jpeg": [
+    {
+      "src": "/bijoux/responsive/e76be3249bc61306-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e76be3249bc61306-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e76be3249bc61306-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/3995d4ea-fa81acf5-0b8e-4b83-9e9f-f2faf8cd317e.jpeg": [
+    {
+      "src": "/bijoux/responsive/edb458a0148a35ab-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/edb458a0148a35ab-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/edb458a0148a35ab-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/39fc272f-5bf02d08-7e22-4375-891f-459041d3a001.jpeg": [
+    {
+      "src": "/bijoux/responsive/c537c075b9089896-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c537c075b9089896-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c537c075b9089896-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/c537c075b9089896-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/3c102d98-697226a8-509e-4430-a592-7f2b595d6985.jpg": [
+    {
+      "src": "/bijoux/responsive/3cbd821838bc4c0d-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3cbd821838bc4c0d-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/3d196505-6c981325-0cef-4048-b2ec-80cf1b5b54e3.jpg": [
+    {
+      "src": "/bijoux/responsive/6a45edbb3ea570ee-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6a45edbb3ea570ee-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/3d4d23a2-da8bb567-8b2c-4f6f-a594-5fc9d64e3040.jpg": [
+    {
+      "src": "/bijoux/responsive/ee1ea35c4e776ab7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ee1ea35c4e776ab7-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/3e200b87-152201a8-c492-4446-b779-d0d1c1818aa6.jpeg": [
+    {
+      "src": "/bijoux/responsive/a3361717eb6c76ad-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a3361717eb6c76ad-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a3361717eb6c76ad-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/a3361717eb6c76ad-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/3ea384ac-964ab955-573b-45ee-8c9e-111a6aa6ea1f.jpeg": [
+    {
+      "src": "/bijoux/responsive/3db5914c4a97808c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3db5914c4a97808c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3db5914c4a97808c-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/3f6da000-00cf8c59-b416-4d6d-8fcf-c25ad0a69424.jpeg": [
+    {
+      "src": "/bijoux/responsive/1d48cdd6a3a580e6-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1d48cdd6a3a580e6-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1d48cdd6a3a580e6-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/1d48cdd6a3a580e6-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/401da00d-8c49e773-2e24-4b92-b242-034613166508.jpg": [
+    {
+      "src": "/bijoux/responsive/31b4a26990eeb255-160.webp",
+      "width": 160,
+      "height": 131
+    },
+    {
+      "src": "/bijoux/responsive/31b4a26990eeb255-300.webp",
+      "width": 300,
+      "height": 245
+    }
+  ],
+  "/bijoux/imported/4028e1ba-ec32b781-7ed4-4142-ae04-9754958e0a3a.png": [
+    {
+      "src": "/bijoux/responsive/4d820b9de3738f65-160.webp",
+      "width": 160,
+      "height": 192
+    },
+    {
+      "src": "/bijoux/responsive/4d820b9de3738f65-480.webp",
+      "width": 480,
+      "height": 576
+    },
+    {
+      "src": "/bijoux/responsive/4d820b9de3738f65-800.webp",
+      "width": 800,
+      "height": 960
+    },
+    {
+      "src": "/bijoux/responsive/4d820b9de3738f65-1145.webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "/bijoux/imported/418709eb-39363e96-556b-4ad8-975b-3c2b84bdce32.jpeg": [
+    {
+      "src": "/bijoux/responsive/a7a525cb38e065ef-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a7a525cb38e065ef-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a7a525cb38e065ef-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/a7a525cb38e065ef-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/42eebb29-0d661c14-d716-4e85-8dd1-8ae2ae24cadb.jpg": [
+    {
+      "src": "/bijoux/responsive/8a911a2541d6ff2e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8a911a2541d6ff2e-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/47abf544-44b91d18-9395-4052-84a2-a9dfc7218537.jpg": [
+    {
+      "src": "/bijoux/responsive/9b08f5d9a0931bfc-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9b08f5d9a0931bfc-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/48b22af2-596f0739-b981-4be3-b1fd-859f67751573.jpeg": [
+    {
+      "src": "/bijoux/responsive/abb1a62e359993cb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/abb1a62e359993cb-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/abb1a62e359993cb-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/48b7fd50-14bdbbda-4781-4985-9bac-7447727d2884.jpg": [
+    {
+      "src": "/bijoux/responsive/faa3dbfd1a6e6273-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/faa3dbfd1a6e6273-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/4a5a80d9-e55dc3b5-4a9e-4309-b503-1b15781a6539.jpeg": [
+    {
+      "src": "/bijoux/responsive/d5c1f46a43664418-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d5c1f46a43664418-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/d5c1f46a43664418-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/d5c1f46a43664418-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/4b27cccd-a0638f31-5253-404e-97c0-1bd93eeea7c6.jpg": [
+    {
+      "src": "/bijoux/responsive/0787d64cb6016174-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0787d64cb6016174-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0787d64cb6016174-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/4b4f956e-aac314cd-2d29-4017-9a5a-52cbe778d5df.webp": [
+    {
+      "src": "/bijoux/responsive/2f75d34c840ccf1a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/2f75d34c840ccf1a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/2f75d34c840ccf1a-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/2f75d34c840ccf1a-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/4c284aec-c303fd70-8a78-4da6-8b87-11a9588c546f.jpg": [
+    {
+      "src": "/bijoux/responsive/06d79a502c2445ec-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/06d79a502c2445ec-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/4c6cc711-57f6b18c-e5ca-4e7d-b60d-33cbc051d0a9.jpeg": [
+    {
+      "src": "/bijoux/responsive/fb464e1545dba56a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/fb464e1545dba56a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/fb464e1545dba56a-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/fb464e1545dba56a-1080.webp",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "/bijoux/imported/4d253778-de1724cd-5585-4e81-ab16-94b5c9903fed.png": [
+    {
+      "src": "/bijoux/responsive/6d7d5d8ff1a17a8e-160.webp",
+      "width": 160,
+      "height": 192
+    },
+    {
+      "src": "/bijoux/responsive/6d7d5d8ff1a17a8e-480.webp",
+      "width": 480,
+      "height": 576
+    },
+    {
+      "src": "/bijoux/responsive/6d7d5d8ff1a17a8e-800.webp",
+      "width": 800,
+      "height": 960
+    },
+    {
+      "src": "/bijoux/responsive/6d7d5d8ff1a17a8e-1145.webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "/bijoux/imported/4e4a560e-14f770ea-742e-40f1-b032-7d1b8a1b7c94.webp": [
+    {
+      "src": "/bijoux/responsive/9dabd5087a4923f2-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/9dabd5087a4923f2-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/9dabd5087a4923f2-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/50625c78-7c069526-c2ee-4391-9d52-ae1c8e7b6374.jpg": [
+    {
+      "src": "/bijoux/responsive/de311e6d842f7fe3-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/de311e6d842f7fe3-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/51294f6f-e1bce7f3-1cab-46fa-93b7-62b79344da30.jpg": [
+    {
+      "src": "/bijoux/responsive/323c0c2f1e11f1b6-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/323c0c2f1e11f1b6-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/543f2e82-ab5c206a-bddc-4e42-bf5b-271c68e0e53b.jpeg": [
+    {
+      "src": "/bijoux/responsive/901dd786bfd0d863-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/901dd786bfd0d863-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/901dd786bfd0d863-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/5586128f-97ceb040-961f-4cb6-a5a6-22269f23b58d.jpeg": [
+    {
+      "src": "/bijoux/responsive/eb26e950a546016c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/eb26e950a546016c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/eb26e950a546016c-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/eb26e950a546016c-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/57504092-85863787-6c9e-49af-8bba-31e3b568b69c.jpeg": [
+    {
+      "src": "/bijoux/responsive/dcd1889ef959e10b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/dcd1889ef959e10b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/dcd1889ef959e10b-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/581cc5b3-3b2f7b48-5f11-4329-ac95-f7f1f56fa90f.jpeg": [
+    {
+      "src": "/bijoux/responsive/5292245735122814-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5292245735122814-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/5292245735122814-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/5af8c504-29e567c0-fec2-4c26-b067-09e2f52f8ec6.jpeg": [
+    {
+      "src": "/bijoux/responsive/4d3ff8379eef532c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/4d3ff8379eef532c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/4d3ff8379eef532c-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/5eac9061-efa60168-351c-4bd4-b983-8d72f4b4f4f9.jpeg": [
+    {
+      "src": "/bijoux/responsive/66be3a3adfdd6e85-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/66be3a3adfdd6e85-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/66be3a3adfdd6e85-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/66be3a3adfdd6e85-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/5f715b99-d2b1132b-b243-46b7-b9b3-bc3f5c36e958.jpg": [
+    {
+      "src": "/bijoux/responsive/9c3f0294c38f377a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9c3f0294c38f377a-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/5fd6be0c-af407964-416f-41ec-9842-7252a6f37842.jpg": [
+    {
+      "src": "/bijoux/responsive/a973a67dc89ab798-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a973a67dc89ab798-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/639923d9-fa53c89d-7749-48ba-9964-fbf9f7b3f6d2.jpg": [
+    {
+      "src": "/bijoux/responsive/8e30a64a1947678b-160.webp",
+      "width": 160,
+      "height": 240
+    },
+    {
+      "src": "/bijoux/responsive/8e30a64a1947678b-200.webp",
+      "width": 200,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/665678ca-ba9ffdd1-4929-4f2a-bf02-5ee5cf0271d6.jpeg": [
+    {
+      "src": "/bijoux/responsive/d0524948ff24bb8f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d0524948ff24bb8f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/d0524948ff24bb8f-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/6714a745-2ce52a34-da4c-4fab-af39-140c76a7b94d.jpg": [
+    {
+      "src": "/bijoux/responsive/a62bc6ec821cac53-160.webp",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "/bijoux/responsive/a62bc6ec821cac53-225.webp",
+      "width": 225,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/6913494b-cdb683ab-2893-4170-b502-1dbf8e597402.jpeg": [
+    {
+      "src": "/bijoux/responsive/f9558601d5e2b1cd-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f9558601d5e2b1cd-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/f9558601d5e2b1cd-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/6954f680-ee84efa2-cf26-476d-953b-b0b560184008.jpeg": [
+    {
+      "src": "/bijoux/responsive/0c15f545dcc08867-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0c15f545dcc08867-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0c15f545dcc08867-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/0c15f545dcc08867-1080.webp",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "/bijoux/imported/6b339693-fa6d9c2a-a4c5-49ec-bd67-6558d1d4b146.jpeg": [
+    {
+      "src": "/bijoux/responsive/80b22828bad7aa77-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/80b22828bad7aa77-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/80b22828bad7aa77-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/6bb28063-748daa96-ded7-470f-99c9-758e79986b4a.jpeg": [
+    {
+      "src": "/bijoux/responsive/221ae2f017b85302-160.webp",
+      "width": 160,
+      "height": 159
+    },
+    {
+      "src": "/bijoux/responsive/221ae2f017b85302-480.webp",
+      "width": 480,
+      "height": 478
+    },
+    {
+      "src": "/bijoux/responsive/221ae2f017b85302-619.webp",
+      "width": 619,
+      "height": 616
+    }
+  ],
+  "/bijoux/imported/6c3945a0-bdbaf1c8-4e68-4f19-b9ac-2ee612248eb6.webp": [
+    {
+      "src": "/bijoux/responsive/45f3a198b9884029-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/45f3a198b9884029-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/45f3a198b9884029-800.webp",
+      "width": 800,
+      "height": 1422
+    },
+    {
+      "src": "/bijoux/responsive/45f3a198b9884029-1125.webp",
+      "width": 1125,
+      "height": 2000
+    }
+  ],
+  "/bijoux/imported/6d1fc8f6-1b661d44-ec23-44da-8d66-e1d3b926c3af.jpeg": [
+    {
+      "src": "/bijoux/responsive/5fa2c3952115d2fb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5fa2c3952115d2fb-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/5fa2c3952115d2fb-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/5fa2c3952115d2fb-908.webp",
+      "width": 908,
+      "height": 908
+    }
+  ],
+  "/bijoux/imported/6eaf5cbf-bdf54b7a-ffce-4347-a8cf-91374839a650.jpg": [
+    {
+      "src": "/bijoux/responsive/e50cdf758775d933-160.webp",
+      "width": 160,
+      "height": 158
+    },
+    {
+      "src": "/bijoux/responsive/e50cdf758775d933-300.webp",
+      "width": 300,
+      "height": 297
+    }
+  ],
+  "/bijoux/imported/70de2730-b858c15f-c524-4aab-8c00-16d650261d60.jpeg": [
+    {
+      "src": "/bijoux/responsive/d8152babb09c550f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d8152babb09c550f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/d8152babb09c550f-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/d8152babb09c550f-1066.webp",
+      "width": 1066,
+      "height": 1066
+    }
+  ],
+  "/bijoux/imported/7400b160-bbe1cd0b-e174-45c8-abea-77eceb7ede34.jpeg": [
+    {
+      "src": "/bijoux/responsive/1d3782e3df6401ab-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1d3782e3df6401ab-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1d3782e3df6401ab-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/7547075e-71cd2dff-d8bc-48be-8628-baf45258f91a.jpeg": [
+    {
+      "src": "/bijoux/responsive/e76be3249bc61306-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e76be3249bc61306-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e76be3249bc61306-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/78c9391d-493ab759-7f18-4c7a-989f-e4bb95691a06.jpeg": [
+    {
+      "src": "/bijoux/responsive/fd544199f36bad13-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/fd544199f36bad13-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/fd544199f36bad13-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/7978b033-30644093-a428-4e2f-a725-5c3f2262103d.jpeg": [
+    {
+      "src": "/bijoux/responsive/ed00a37ed95771ca-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ed00a37ed95771ca-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/ed00a37ed95771ca-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/ed00a37ed95771ca-1080.webp",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "/bijoux/imported/7987963a-c98eeedd-8dd7-430d-b466-4bd3e38b0337.jpeg": [
+    {
+      "src": "/bijoux/responsive/94a76bc530b94a64-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/94a76bc530b94a64-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/94a76bc530b94a64-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/8040b444-33df5a4f-de72-4f85-87ce-6edf8d20c136.jpeg": [
+    {
+      "src": "/bijoux/responsive/0532e74b2199d52f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0532e74b2199d52f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0532e74b2199d52f-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/0532e74b2199d52f-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/823c35fb-fafca504-8e50-4124-b8e5-1b73de95377d.jpeg": [
+    {
+      "src": "/bijoux/responsive/711b5a13704ee548-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/711b5a13704ee548-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/711b5a13704ee548-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/82b7b42a-eff879f0-a2b0-4970-baf6-64d0049e43e3.jpeg": [
+    {
+      "src": "/bijoux/responsive/c27aa60fea16fc42-160.webp",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "/bijoux/responsive/c27aa60fea16fc42-480.webp",
+      "width": 480,
+      "height": 639
+    },
+    {
+      "src": "/bijoux/responsive/c27aa60fea16fc42-800.webp",
+      "width": 800,
+      "height": 1065
+    },
+    {
+      "src": "/bijoux/responsive/c27aa60fea16fc42-1200.webp",
+      "width": 1200,
+      "height": 1597
+    }
+  ],
+  "/bijoux/imported/82fc991f-0ff09b08-7c78-4085-8de9-afe7a69e15e7.jpeg": [
+    {
+      "src": "/bijoux/responsive/b8265287788f2191-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/b8265287788f2191-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/b8265287788f2191-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/87d24e2e-e89f85f7-5f5c-4300-9d6b-388a2680c9b8.jpeg": [
+    {
+      "src": "/bijoux/responsive/d67c1959852c4710-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d67c1959852c4710-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/d67c1959852c4710-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/d67c1959852c4710-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/8821b941-6b6964a2-4289-4b6d-a6c6-d2d4a1062321.jpeg": [
+    {
+      "src": "/bijoux/responsive/50975c0baedc4f66-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/50975c0baedc4f66-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/50975c0baedc4f66-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/88461f3e-9ce92be9-eab4-4759-b313-6c796eb6cd11.jpg": [
+    {
+      "src": "/bijoux/responsive/7337272c84fdc03a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7337272c84fdc03a-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/8ac1f8cf-2e6b57e7-b570-4ed0-a5e0-dc87c2b65567.jpg": [
+    {
+      "src": "/bijoux/responsive/587d9d5c81c83db1-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/587d9d5c81c83db1-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/8b70ca4a-0ab48d76-a8a2-4a78-9478-f050a6f8cf4a.jpg": [
+    {
+      "src": "/bijoux/responsive/606ae2e1de62a76b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/606ae2e1de62a76b-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/8b8b4b36-e31ad1bc-1745-46b1-837b-4bd4229803c7.jpeg": [
+    {
+      "src": "/bijoux/responsive/da553ca163f7fe2c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/da553ca163f7fe2c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/da553ca163f7fe2c-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/da553ca163f7fe2c-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/8c65b705-cff41085-16a1-446e-b25a-9fe49d51b7ff.jpeg": [
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/6f7bc754cede73e2-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/8cba2c21-e44ccbf0-ab64-4ede-9a29-202d63d24e50.jpg": [
+    {
+      "src": "/bijoux/responsive/8865cf07b12d38ac-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8865cf07b12d38ac-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/8d046972-739a6453-b930-4a80-9f42-088085334b42.jpeg": [
+    {
+      "src": "/bijoux/responsive/3a11df88805bee03-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3a11df88805bee03-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3a11df88805bee03-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/8d0a3678-805c476f-1f55-4ff9-b471-3c87978ff8f8.webp": [
+    {
+      "src": "/bijoux/responsive/57b8c5d77dc78b39-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/57b8c5d77dc78b39-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/57b8c5d77dc78b39-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/8f873bb6-377dfd0b-a3ad-4109-a8bc-8ff0bac9367d.jpeg": [
+    {
+      "src": "/bijoux/responsive/559604a2df52dcb7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/559604a2df52dcb7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/559604a2df52dcb7-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/559604a2df52dcb7-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/8fe9285b-be4df232-abbc-4f30-addc-9e4fc0e86ee8.jpeg": [
+    {
+      "src": "/bijoux/responsive/14bb3e7552d9fcb7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/14bb3e7552d9fcb7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/14bb3e7552d9fcb7-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/9214a9d3-ca737ec1-c1d5-4fc7-9a8b-d04eba809afe.jpeg": [
+    {
+      "src": "/bijoux/responsive/ba3441f027cf9838-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ba3441f027cf9838-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/ba3441f027cf9838-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/ba3441f027cf9838-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/949cb559-a7fa9a8d-e7aa-4d55-8c7b-d242ab09e8a2.jpg": [
+    {
+      "src": "/bijoux/responsive/a6fdb549e989b3fc-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a6fdb549e989b3fc-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/9599055f-28462572-10ee-4875-bdd3-003d4f189a2f.jpeg": [
+    {
+      "src": "/bijoux/responsive/912d82b93294a0f7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/912d82b93294a0f7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/912d82b93294a0f7-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/912d82b93294a0f7-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/95ddd20c-5ae17949-dc50-47d6-8a92-af4a9335f082.jpg": [
+    {
+      "src": "/bijoux/responsive/d2e7b23c1dc653a6-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d2e7b23c1dc653a6-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/96d34d0e-914db406-55df-4c2c-a150-468306904811.jpeg": [
+    {
+      "src": "/bijoux/responsive/9717cddc7a445f99-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9717cddc7a445f99-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9717cddc7a445f99-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/9717cddc7a445f99-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/974dc1b2-cc3921ba-dddb-4634-b72a-dbd9feaa1c63.jpeg": [
+    {
+      "src": "/bijoux/responsive/6e40e6634e4111a3-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6e40e6634e4111a3-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6e40e6634e4111a3-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/6e40e6634e4111a3-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/992cd7e4-89480893-1849-4ec6-8dfd-e5cffdbfe8a9.jpg": [
+    {
+      "src": "/bijoux/responsive/9e0924424d3a2876-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9e0924424d3a2876-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/9a58c665-5a84b55d-2c79-4780-9e3f-1659ec7d8511.jpeg": [
+    {
+      "src": "/bijoux/responsive/0ffaedef4f8dd049-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0ffaedef4f8dd049-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/0ffaedef4f8dd049-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/9abb8a81-db28292b-8eab-4ac2-9d5c-e885ffcb76aa.jpeg": [
+    {
+      "src": "/bijoux/responsive/c0a80a44092ea19f-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/c0a80a44092ea19f-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/c0a80a44092ea19f-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/9c599119-562d8f84-7527-415e-9214-e859d7ea96b4.jpg": [
+    {
+      "src": "/bijoux/responsive/7ca4568a5b5549a7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7ca4568a5b5549a7-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/9d73a953-702d3266-37d4-4e59-9f1c-9321651a1150.jpeg": [
+    {
+      "src": "/bijoux/responsive/129e105617a042dc-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/129e105617a042dc-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/129e105617a042dc-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/9e368333-72aa4c70-dcfa-4043-a1a7-642a7f6d7b97.jpg": [
+    {
+      "src": "/bijoux/responsive/290aedbd6fecf827-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/290aedbd6fecf827-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/a432ab88-64589d51-11f9-45cc-ae66-478f4d036ae9.jpg": [
+    {
+      "src": "/bijoux/responsive/26e444af6760ac5b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/26e444af6760ac5b-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/a58d6c1f-2242cb13-5417-4413-9eef-e7c4feb2da76.jpg": [
+    {
+      "src": "/bijoux/responsive/f81bb4600b03eda5-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f81bb4600b03eda5-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/f81bb4600b03eda5-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/a59e2912-4c09d9e6-fae6-47c9-a5ba-c9389b1aef9d.jpeg": [
+    {
+      "src": "/bijoux/responsive/13f7185842b0c669-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/13f7185842b0c669-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/13f7185842b0c669-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/13f7185842b0c669-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/a6600a71-ad0cf1b1-5b3c-4b04-b057-9cda1ab10d0e.jpeg": [
+    {
+      "src": "/bijoux/responsive/6dffaf4201ca67ef-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/6dffaf4201ca67ef-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/6dffaf4201ca67ef-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/a76f85db-c0b71f1e-fd03-4e8e-8f88-1ea83bc14bb5.jpeg": [
+    {
+      "src": "/bijoux/responsive/26867595f50980eb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/26867595f50980eb-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/26867595f50980eb-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/a7a5012b-feb509ad-57b8-40ef-bec7-f423ba19501d.jpeg": [
+    {
+      "src": "/bijoux/responsive/64873bd2315e76f8-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/64873bd2315e76f8-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/64873bd2315e76f8-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/acfaf5be-4afc0027-beac-40b1-8b6d-770a166274fd.jpeg": [
+    {
+      "src": "/bijoux/responsive/e6f8f02e645b3b6a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/e6f8f02e645b3b6a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/e6f8f02e645b3b6a-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/b09d6b88-cf0ae758-23ce-42b0-acbf-ed5456a417a7.jpeg": [
+    {
+      "src": "/bijoux/responsive/81aff5d0f5c8a61c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/81aff5d0f5c8a61c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/81aff5d0f5c8a61c-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/b10253d7-46ab5458-f321-40be-8bd0-38fc8f6b0345.jpg": [
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/b12ee481-1b9645ba-6435-4e7b-be12-5ec9a760141c.webp": [
+    {
+      "src": "/bijoux/responsive/ed53b2fa4d89774d-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/ed53b2fa4d89774d-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/ed53b2fa4d89774d-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/b19f4268-91f0f601-ecf8-4d8f-8c72-d60208bcb88c.jpeg": [
+    {
+      "src": "/bijoux/responsive/1679aa1a29d6a3ef-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1679aa1a29d6a3ef-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/1679aa1a29d6a3ef-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/1679aa1a29d6a3ef-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/b2a288c3-a6daaf17-42dc-4688-b8c4-5fe49e872247.jpeg": [
+    {
+      "src": "/bijoux/responsive/a626f472146f56ed-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a626f472146f56ed-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a626f472146f56ed-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/b2bb8cce-a835af64-6e7c-4f89-b0c7-65bf46e2bcc2.jpeg": [
+    {
+      "src": "/bijoux/responsive/95e7b1e9a6b770c9-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/95e7b1e9a6b770c9-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/95e7b1e9a6b770c9-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/95e7b1e9a6b770c9-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/b3a21a54-d66817c7-3bae-4699-8c1b-95e2c39e844b.jpg": [
+    {
+      "src": "/bijoux/responsive/85ec0cd6e31398ff-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/85ec0cd6e31398ff-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/b4a318f9-618d1b76-dbc4-4903-9ffa-ca33cda93863.jpg": [
+    {
+      "src": "/bijoux/responsive/751561e1f7a68bec-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/751561e1f7a68bec-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/b5857646-fb2b362b-cd06-41fe-90f2-52f10337d39c.jpg": [
+    {
+      "src": "/bijoux/responsive/20b1080fabb0ebc1-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/20b1080fabb0ebc1-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/b7ea3a73-0641fefe-e17b-406f-af0d-42a97f570578.jpeg": [
+    {
+      "src": "/bijoux/responsive/bfe8b6adc9d84453-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/bfe8b6adc9d84453-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/bfe8b6adc9d84453-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/bfe8b6adc9d84453-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/b996cc22-9e4ddfc8-19ee-4c01-8201-d63f982da04d.jpeg": [
+    {
+      "src": "/bijoux/responsive/99b21d0ac2c8c2a4-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/99b21d0ac2c8c2a4-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/99b21d0ac2c8c2a4-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/99b21d0ac2c8c2a4-1080.webp",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "/bijoux/imported/b998a578-63679300-de9d-486c-b479-7869e6c57f69.jpg": [
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/7c55feba9b1e6489-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/b9db28f9-c643607c-cbc3-405e-9b01-1f04fe2e6764.jpg": [
+    {
+      "src": "/bijoux/responsive/159091949c25c7be-160.webp",
+      "width": 160,
+      "height": 240
+    },
+    {
+      "src": "/bijoux/responsive/159091949c25c7be-200.webp",
+      "width": 200,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/ba4b7af4-06a99fc4-197a-4bc4-87f9-6ae359465852.jpeg": [
+    {
+      "src": "/bijoux/responsive/451050f4feb79dfe-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/451050f4feb79dfe-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/451050f4feb79dfe-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/451050f4feb79dfe-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/ba55b9c2-eaa9dc12-c921-45a3-be43-263e761d49fc.jpeg": [
+    {
+      "src": "/bijoux/responsive/4f367e1dbe459161-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/4f367e1dbe459161-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/4f367e1dbe459161-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/ba73f488-6cbc1b51-0a84-49b6-8628-80c97e5ec7a7.jpg": [
+    {
+      "src": "/bijoux/responsive/776a2e8313498176-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/776a2e8313498176-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/c078f273-c219a0c1-80a7-4fe6-b11c-f940451a038c.jpg": [
+    {
+      "src": "/bijoux/responsive/ddca3f61ba6a6799-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/ddca3f61ba6a6799-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/c3540fd9-260696d4-5d22-4f5e-aa82-70ed9ff0a0ae.jpeg": [
+    {
+      "src": "/bijoux/responsive/5aaf758332344d52-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5aaf758332344d52-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/5aaf758332344d52-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/5aaf758332344d52-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/c51a70e1-2c33d8dd-3a49-4077-a3d3-c5eb52904fe9.jpg": [
+    {
+      "src": "/bijoux/responsive/127c3d4c7935413c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/127c3d4c7935413c-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/cbcfe2be-e1f2e320-d519-4f72-a18d-37053e8f0dda.jpeg": [
+    {
+      "src": "/bijoux/responsive/460b0632295e0d79-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/460b0632295e0d79-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/460b0632295e0d79-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/cdeee628-14459d8b-aee3-4159-bc69-42aad1b8d6ae.jpeg": [
+    {
+      "src": "/bijoux/responsive/794edf323b0b92eb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/794edf323b0b92eb-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/794edf323b0b92eb-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/794edf323b0b92eb-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/ce06269e-43591834-89c5-44d6-ac77-3285d8dab7ab.jpg": [
+    {
+      "src": "/bijoux/responsive/0fd7ed9c5e0211ed-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/0fd7ed9c5e0211ed-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/cfee4a46-514623fb-afa8-4ff9-ae80-b6acc9634177.jpg": [
+    {
+      "src": "/bijoux/responsive/1f103fdabad609a4-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/1f103fdabad609a4-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/d0499df6-7798e200-dfa9-45ba-a185-18c6814ff3df.jpeg": [
+    {
+      "src": "/bijoux/responsive/f9e2880f62d87df8-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f9e2880f62d87df8-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/f9e2880f62d87df8-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/d6b4e073-6654cba9-8a8c-4bf4-9031-14960813cb95.png": [
+    {
+      "src": "/bijoux/responsive/4760fecd72d376f8-160.webp",
+      "width": 160,
+      "height": 240
+    },
+    {
+      "src": "/bijoux/responsive/4760fecd72d376f8-480.webp",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "src": "/bijoux/responsive/4760fecd72d376f8-800.webp",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "src": "/bijoux/responsive/4760fecd72d376f8-1024.webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "/bijoux/imported/d803ed0f-41dd995e-793c-45ce-ba2a-ae2cb66e06b9.jpeg": [
+    {
+      "src": "/bijoux/responsive/9717b99b5446eea5-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9717b99b5446eea5-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9717b99b5446eea5-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/9717b99b5446eea5-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/d8c616f9-611ef591-3bfd-4ae9-89f7-1e256086f1a4.jpeg": [
+    {
+      "src": "/bijoux/responsive/d42e9749514d6625-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d42e9749514d6625-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/d42e9749514d6625-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/d8ff8f2c-ba27204b-7b0a-418e-b71f-038eebcb0ecd.jpeg": [
+    {
+      "src": "/bijoux/responsive/9072155094ebd0c7-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/9072155094ebd0c7-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/9072155094ebd0c7-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/d97e1db6-1c46abb3-c469-4688-985f-f6d6ca33dbbc.jpeg": [
+    {
+      "src": "/bijoux/responsive/2b315720ef201f78-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/2b315720ef201f78-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/2b315720ef201f78-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/2b315720ef201f78-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/da74c5e0-01c4f010-9bed-469d-bc94-6dedeaa75374.jpg": [
+    {
+      "src": "/bijoux/responsive/cae8869b3cb0b652-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/cae8869b3cb0b652-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/daa43c53-893ec446-98a7-4bf2-b6e6-17833f37fb9c.jpeg": [
+    {
+      "src": "/bijoux/responsive/83e30c495478a672-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/83e30c495478a672-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/83e30c495478a672-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/83e30c495478a672-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/df94707b-6911eade-6333-41e6-8a13-29636c876ee5.jpeg": [
+    {
+      "src": "/bijoux/responsive/4529c4b3168c0735-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/4529c4b3168c0735-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/4529c4b3168c0735-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/e178b549-190b5eaf-c2a1-4840-a76b-d9efd7e94c5c.jpg": [
+    {
+      "src": "/bijoux/responsive/d82367652db51347-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d82367652db51347-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/e30f60a2-cf62da8f-63e4-43aa-9050-aad228c43e7d.jpeg": [
+    {
+      "src": "/bijoux/responsive/599612bbf641a22b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/599612bbf641a22b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/599612bbf641a22b-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/599612bbf641a22b-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/imported/e446db3c-98b4d8ff-2e3e-44b9-b392-273f202c26c0.webp": [
+    {
+      "src": "/bijoux/responsive/e0f7903e528f54ad-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/e0f7903e528f54ad-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/e0f7903e528f54ad-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/e68689d6-be4b5cb6-3043-4f4b-98de-838c7ea96c24.jpg": [
+    {
+      "src": "/bijoux/responsive/8499d7c24db3b524-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8499d7c24db3b524-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/e730f4db-f7f6ac5d-aae9-4d21-b874-a778182c1a93.jpeg": [
+    {
+      "src": "/bijoux/responsive/47e294c0f07e325c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/47e294c0f07e325c-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/47e294c0f07e325c-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/47e294c0f07e325c-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/e86aef01-c5b47945-e901-4655-be7f-7e64f4572358.jpeg": [
+    {
+      "src": "/bijoux/responsive/3d2b956920ee7c63-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/3d2b956920ee7c63-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/3d2b956920ee7c63-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/e92a9c2e-3a787062-db83-4e07-b87e-5e716747e888.jpg": [
+    {
+      "src": "/bijoux/responsive/33d9dbf38833d11a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/33d9dbf38833d11a-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/e95476e2-2501ea6d-56df-4f73-8b03-6162501fd93f.jpeg": [
+    {
+      "src": "/bijoux/responsive/af8e47bb65f6410a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/af8e47bb65f6410a-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/af8e47bb65f6410a-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/af8e47bb65f6410a-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/imported/e9f97ef3-e78e3ade-875f-4b17-b04e-7b33d1c3f8c1.png": [
+    {
+      "src": "/bijoux/responsive/42c11d5c8856c759-160.webp",
+      "width": 160,
+      "height": 240
+    },
+    {
+      "src": "/bijoux/responsive/42c11d5c8856c759-480.webp",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "src": "/bijoux/responsive/42c11d5c8856c759-800.webp",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "src": "/bijoux/responsive/42c11d5c8856c759-1024.webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "/bijoux/imported/ebde787c-a43ad7d4-b302-4e22-8328-c9126547634a.jpeg": [
+    {
+      "src": "/bijoux/responsive/12be5fff7eb371d6-160.webp",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "/bijoux/responsive/12be5fff7eb371d6-480.webp",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "src": "/bijoux/responsive/12be5fff7eb371d6-800.webp",
+      "width": 800,
+      "height": 1067
+    },
+    {
+      "src": "/bijoux/responsive/12be5fff7eb371d6-1200.webp",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "/bijoux/imported/ecd69a67-d95455c2-ea4d-4b3f-bc07-94e7a11a44cd.jpeg": [
+    {
+      "src": "/bijoux/responsive/58f3b0f5dc543679-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/58f3b0f5dc543679-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/58f3b0f5dc543679-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/f1bb98bf-852e7394-a423-4c09-87c0-0ef45496a47c.jpeg": [
+    {
+      "src": "/bijoux/responsive/39d9316a2795ff6e-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/39d9316a2795ff6e-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/39d9316a2795ff6e-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/f2a5cab5-f1b0d78d-0d05-48c4-b408-1d161b512037.jpeg": [
+    {
+      "src": "/bijoux/responsive/5445725f956f654b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5445725f956f654b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/5445725f956f654b-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/f2fea45a-8bf9d576-9191-4761-9b49-f8ce1977d643.jpeg": [
+    {
+      "src": "/bijoux/responsive/f656693c09facc2c-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/f656693c09facc2c-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/f6700d69-c338d785-a0a5-4f10-98c5-09b6dcac9de0.webp": [
+    {
+      "src": "/bijoux/responsive/2cd1369ca745bc0d-160.webp",
+      "width": 160,
+      "height": 284
+    },
+    {
+      "src": "/bijoux/responsive/2cd1369ca745bc0d-480.webp",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "src": "/bijoux/responsive/2cd1369ca745bc0d-720.webp",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "/bijoux/imported/f6e63898-8307086e-f51b-4059-8e5a-886107d60864.jpg": [
+    {
+      "src": "/bijoux/responsive/5f2f58ee1b38dd6a-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/5f2f58ee1b38dd6a-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/imported/f7ef2982-a118c101-1cb1-4414-9e0b-9e608419bd6c.jpeg": [
+    {
+      "src": "/bijoux/responsive/a0b3b49ee7da7143-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a0b3b49ee7da7143-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a0b3b49ee7da7143-750.webp",
+      "width": 750,
+      "height": 750
+    }
+  ],
+  "/bijoux/imported/f897bf0c-41a98aa0-bdc4-4c15-8032-8b2fd982ede7.jpeg": [
+    {
+      "src": "/bijoux/responsive/8f17815df66c0bce-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8f17815df66c0bce-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/8f17815df66c0bce-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/imported/fac93abd-dbf6563b-0506-479a-9776-2f4945b33131.jpg": [
+    {
+      "src": "/bijoux/responsive/d6c31be5c8850ecb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/d6c31be5c8850ecb-300.webp",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "/bijoux/lumiere-de-soie.jpg": [
+    {
+      "src": "/bijoux/responsive/0f6869268ae14e3f-160.webp",
+      "width": 160,
+      "height": 200
+    },
+    {
+      "src": "/bijoux/responsive/0f6869268ae14e3f-480.webp",
+      "width": 480,
+      "height": 600
+    },
+    {
+      "src": "/bijoux/responsive/0f6869268ae14e3f-800.webp",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "src": "/bijoux/responsive/0f6869268ae14e3f-1024.webp",
+      "width": 1024,
+      "height": 1280
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bag-jardin-vert.webp": [
+    {
+      "src": "/bijoux/responsive/085ee8663df2d1fb-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/085ee8663df2d1fb-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/085ee8663df2d1fb-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/085ee8663df2d1fb-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bag-ruban.webp": [
+    {
+      "src": "/bijoux/responsive/99f4c98bf4e7a8a5-160.webp",
+      "width": 160,
+      "height": 229
+    },
+    {
+      "src": "/bijoux/responsive/99f4c98bf4e7a8a5-480.webp",
+      "width": 480,
+      "height": 686
+    },
+    {
+      "src": "/bijoux/responsive/99f4c98bf4e7a8a5-800.webp",
+      "width": 800,
+      "height": 1144
+    },
+    {
+      "src": "/bijoux/responsive/99f4c98bf4e7a8a5-1119.webp",
+      "width": 1119,
+      "height": 1600
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bou-vert-facette.webp": [
+    {
+      "src": "/bijoux/responsive/36f161970691f72d-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/36f161970691f72d-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/36f161970691f72d-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/36f161970691f72d-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bra-calligraphie.webp": [
+    {
+      "src": "/bijoux/responsive/789623752caef9a3-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/789623752caef9a3-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/789623752caef9a3-798.webp",
+      "width": 798,
+      "height": 798
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bra-etoiles-lumiere.webp": [
+    {
+      "src": "/bijoux/responsive/055bcbaec8b5c2d9-160.webp",
+      "width": 160,
+      "height": 184
+    },
+    {
+      "src": "/bijoux/responsive/055bcbaec8b5c2d9-480.webp",
+      "width": 480,
+      "height": 552
+    },
+    {
+      "src": "/bijoux/responsive/055bcbaec8b5c2d9-800.webp",
+      "width": 800,
+      "height": 920
+    },
+    {
+      "src": "/bijoux/responsive/055bcbaec8b5c2d9-1125.webp",
+      "width": 1125,
+      "height": 1294
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bra-etoiles-noires.webp": [
+    {
+      "src": "/bijoux/responsive/80499d836a55d64b-160.webp",
+      "width": 160,
+      "height": 196
+    },
+    {
+      "src": "/bijoux/responsive/80499d836a55d64b-480.webp",
+      "width": 480,
+      "height": 589
+    },
+    {
+      "src": "/bijoux/responsive/80499d836a55d64b-800.webp",
+      "width": 800,
+      "height": 982
+    },
+    {
+      "src": "/bijoux/responsive/80499d836a55d64b-1125.webp",
+      "width": 1125,
+      "height": 1381
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/bra-fleurs-lumiere.webp": [
+    {
+      "src": "/bijoux/responsive/75f952c9ef716fb6-160.webp",
+      "width": 160,
+      "height": 196
+    },
+    {
+      "src": "/bijoux/responsive/75f952c9ef716fb6-480.webp",
+      "width": 480,
+      "height": 588
+    },
+    {
+      "src": "/bijoux/responsive/75f952c9ef716fb6-800.webp",
+      "width": 800,
+      "height": 980
+    },
+    {
+      "src": "/bijoux/responsive/75f952c9ef716fb6-1125.webp",
+      "width": 1125,
+      "height": 1378
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/col-coeur-miroir.webp": [
+    {
+      "src": "/bijoux/responsive/cfc3338c92bdc6ec-160.webp",
+      "width": 160,
+      "height": 201
+    },
+    {
+      "src": "/bijoux/responsive/cfc3338c92bdc6ec-480.webp",
+      "width": 480,
+      "height": 603
+    },
+    {
+      "src": "/bijoux/responsive/cfc3338c92bdc6ec-800.webp",
+      "width": 800,
+      "height": 1006
+    },
+    {
+      "src": "/bijoux/responsive/cfc3338c92bdc6ec-1125.webp",
+      "width": 1125,
+      "height": 1414
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/col-harmonie.webp": [
+    {
+      "src": "/bijoux/responsive/6217116e77c93442-160.webp",
+      "width": 160,
+      "height": 207
+    },
+    {
+      "src": "/bijoux/responsive/6217116e77c93442-480.webp",
+      "width": 480,
+      "height": 622
+    },
+    {
+      "src": "/bijoux/responsive/6217116e77c93442-540.webp",
+      "width": 540,
+      "height": 700
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/col-papillon-perle.webp": [
+    {
+      "src": "/bijoux/responsive/165be9fe43d68154-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/165be9fe43d68154-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/165be9fe43d68154-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/165be9fe43d68154-1200.webp",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/ens-calligraphie.webp": [
+    {
+      "src": "/bijoux/responsive/8baacfebb987b8ea-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/8baacfebb987b8ea-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/8baacfebb987b8ea-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/ens-marguerite.webp": [
+    {
+      "src": "/bijoux/responsive/24d5ea1bb15a2aa9-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/24d5ea1bb15a2aa9-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/24d5ea1bb15a2aa9-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/ens-meandre.webp": [
+    {
+      "src": "/bijoux/responsive/224ae54308e3f48b-160.webp",
+      "width": 160,
+      "height": 223
+    },
+    {
+      "src": "/bijoux/responsive/224ae54308e3f48b-480.webp",
+      "width": 480,
+      "height": 670
+    },
+    {
+      "src": "/bijoux/responsive/224ae54308e3f48b-800.webp",
+      "width": 800,
+      "height": 1117
+    },
+    {
+      "src": "/bijoux/responsive/224ae54308e3f48b-1125.webp",
+      "width": 1125,
+      "height": 1571
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/ens-ovale.webp": [
+    {
+      "src": "/bijoux/responsive/a591f9d4819c605d-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/a591f9d4819c605d-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/a591f9d4819c605d-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/a591f9d4819c605d-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/ens-serpentine.webp": [
+    {
+      "src": "/bijoux/responsive/89cfccc6c6630c0b-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/89cfccc6c6630c0b-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/89cfccc6c6630c0b-800.webp",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "/bijoux/nouveautes-2026-11/ens-soleil.webp": [
+    {
+      "src": "/bijoux/responsive/b35810e5ebb5b862-160.webp",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "src": "/bijoux/responsive/b35810e5ebb5b862-480.webp",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "src": "/bijoux/responsive/b35810e5ebb5b862-800.webp",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "/bijoux/responsive/b35810e5ebb5b862-1000.webp",
+      "width": 1000,
+      "height": 1000
+    }
+  ]
+}
