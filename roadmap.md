@@ -1,4 +1,5 @@
 # JAMILA JEWELRY
+- [ ] Importer les bijoux de Dowloads.rar : photos, catégories, textes, prix 99–199 DH, étiquette Nouveau, vérification du catalogue.
 - [x] Accueil vitrine (collections, sélection 4–8, univers, avis, réassurance)
 - [x] Boutique complète avec filtres, tri, chargement progressif
 - [x] Pages collections + fiche produit par URL
