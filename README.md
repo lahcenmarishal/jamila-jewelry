@@ -40,7 +40,7 @@ Jamila Jewelry propose une boutique en ligne permettant aux clients de découvri
 
 ```bash
 git clone https://github.com/lahcenmarishal/jamila-jewelry.git
-cd remix-of-remix-of-remix-of-lumi-re-venus-collection-82
+cd jamila-jewelry
 npm install
 npm run dev
 ```
