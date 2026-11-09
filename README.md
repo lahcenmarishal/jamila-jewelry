@@ -1,24 +1,50 @@
-# Remix of Lumière Venus Collection
+# Jamila Jewelry
 
-LE NOM DE BRAND EST " LUMIERE VENUS" et les produits sont uplodé avec le logo
+Boutique e-commerce moderne et élégante spécialisée dans la vente de bijoux en acier inoxydable, mettant en valeur des collections raffinées à des prix accessibles.
 
-This project was built with [Lovable](https://lovable.dev).
+Site en ligne : https://www.jamila-jewelry.com/
 
-## Build with Lovable
+## Le problème
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/bab405bc-e18a-41eb-9ce3-c787991a01d2).
+Les clients recherchent des bijoux élégants et accessibles, avec une expérience d'achat simple, des informations claires sur les produits et un moyen pratique de passer commande.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## La solution
 
-## Development
+Jamila Jewelry propose une boutique en ligne permettant aux clients de découvrir les collections et de commander facilement leurs bijoux :
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+1. Découverte de la boutique et de ses collections.
+2. Consultation du catalogue de bijoux.
+3. Visualisation des photos, détails et prix des produits.
+4. Passage de commande en ligne.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Fonctionnalités
+
+- Design moderne et élégant
+- Catalogue de bijoux
+- Fiches produits détaillées
+- Présentation des collections
+- Panier d'achat
+- Commande en ligne
+- Navigation intuitive
+- Interface responsive (mobile, tablette et ordinateur)
+
+## Technologies
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Supabase
+
+## Installation
+
+```bash
+git clone https://github.com/lahcenmarishal/jamila-jewelry.git
+cd remix-of-remix-of-remix-of-lumi-re-venus-collection-82
+npm install
 npm run dev
 ```
+
+## Auteur
+
+Lahcen, développeur IA.
